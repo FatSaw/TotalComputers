@@ -20,6 +20,7 @@
 #define J_ENV_H
 
 #include <jni.h>
+#include <cstdlib>
 
 namespace tc {
 

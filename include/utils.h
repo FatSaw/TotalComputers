@@ -22,6 +22,7 @@
 #include <memory>
 #include <cstring>
 #include <jni.h>
+#include <cstdlib>
 
 #include "object.h"
 
